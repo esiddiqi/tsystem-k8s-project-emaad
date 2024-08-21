@@ -49,8 +49,8 @@ The application can be accessed using the following URL:
 
 
 
-# Thanks, 
-# Emaad Siddiqi
+Thanks, 
+### Emaad Siddiqi
 
 
 
